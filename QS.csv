@@ -1,0 +1,551 @@
+排名,英文名称,综合得分
+1,Massachusetts Institute of Technology (MIT),100
+2,University of Cambridge,99.2
+3,University of Oxford,98.9
+4,Harvard University,98.3
+5,Stanford University,98.1
+6,Imperial College London,97.8
+7,ETH Zurich - Swiss Federal Institute of Technology,93.3
+8,National University of Singapore (NUS),92.7
+9,UCL,92.4
+10,"University of California, Berkeley (UCB)",90.4
+11,University of Chicago,90.3
+12,University of Pennsylvania,89.4
+13,Cornell University,89.3
+14,The University of Melbourne,87.9
+15,California Institute of Technology (Caltech),87.8
+16,Yale University,87.7
+17,Peking University,87
+17,Princeton University,87
+19,The University of New South Wales (UNSW Sydney),86.7
+19,The University of Sydney,86.7
+21,University of Toronto,86.3
+22,The University of Edinburgh,86.1
+23,Columbia University,85.9
+24,Université PSL,85.8
+25,Tsinghua University,84.9
+26,"Nanyang Technological University, Singapore (NTU)",84.5
+26,The University of Hong Kong,84.5
+28,Johns Hopkins University,84.5
+28,The University of Tokyo,84.3
+29,"University of California, Los Angeles (UCLA)",83.8
+30,McGill University,83.7
+32,The University of Manchester,82.2
+33,University of Michigan-Ann Arbor,81.7
+34,The Australian National University,81.5
+34,University of British Columbia,81.5
+36,EPFL,80.4
+37,Technical University of Munich,80
+38,Institut Polytechnique de Paris,79.5
+38,New York University (NYU),79.5
+40,King's College London,79.3
+41,Seoul National University,78.5
+42,Monash University,78.2
+43,The University of Queensland,78.1
+44,Zhejiang University,77.8
+45,The London School of Economics and Political Science (LSE),76.9
+46,Kyoto University,76.3
+47,Delft University of Technology,76.2
+47,Northwestern University,76.2
+47,The Chinese University of Hong Kong (CUHK),76.2
+50,Fudan University,74.4
+51,Shanghai Jiao Tong University,74.3
+52,Carnegie Mellon University,73.7
+53,University of Amsterdam,73.4
+54,Ludwig-Maximilians-Universit?t München,72.5
+55,University of Bristol,72.4
+56,KAIST - Korea Advanced Institute of Science & Technology,72.2
+57,Duke University,72
+58,University of Texas at Austin,71.8
+59,Sorbonne University,71.7
+60,The Hong Kong University of Science and Technology,71.1
+61,KU Leuven,70.1
+62,"University of California, San Diego (UCSD)",70
+63,University of Washington,69.2
+64,University of Illinois at Urbana-Champaign,69.1
+65,The Hong Kong Polytechnic University,68.7
+65,Universiti Malaya (UM),68.7
+67,The University of Warwick,68.6
+68,The University of Auckland,68
+69,National Taiwan University (NTU),67.9
+70,City University of Hong Kong,67.7
+71,Université Paris-Saclay,67.6
+72,The University of Western Australia,66.9
+73,Brown University,66.4
+73,KTH Royal Institute of Technology,66.4
+75,University of Leeds,65.5
+76,University of Glasgow,65.2
+76,Yonsei University,65.2
+78,Durham University,65.1
+79,Korea University,64.7
+80,Osaka University,63.9
+81,"Trinity College Dublin, The University of Dublin",63.5
+81,University of Southampton,63.5
+83,Pennsylvania State University,63.1
+84,University of Birmingham,63
+85,Lund University,62.8
+85,Universidade de S?o Paulo,62.8
+87,Lomonosov Moscow State University,62.2
+87,Ruprecht-Karls-Universit?t Heidelberg,62.2
+89,The University of Adelaide,62
+90,University of Technology Sydney,61.8
+91,Tokyo Institute of Technology (Tokyo Tech),61.6
+91,University of Zurich,61.6
+93,Boston University,61.4
+93,Universidad Nacional Autónoma de México (UNAM),61.4
+95,Universidad de Buenos Aires (UBA),61
+95,University of St Andrews,61
+97,Georgia Institute of Technology,60.9
+98,Freie Universitaet Berlin,60.8
+99,Purdue University,60.7
+100,Pohang University of Science And Technology (POSTECH),60.4
+100,University of Nottingham,60.4
+102,University of Wisconsin-Madison,60
+103,Pontificia Universidad Católica de Chile (UC),59.9
+104,The University of Sheffield,59.7
+105,Uppsala University,59.4
+106,RWTH Aachen University,59.3
+107,University of Copenhagen,58.8
+107,Utrecht University,58.8
+109,Aalto University,58.7
+110,Newcastle University,58.6
+111,University of Alberta,58.3
+112,University of Waterloo,58.1
+113,Tohoku University,58
+114,Western University,57.4
+115,University of Helsinki,57.2
+116,University of Southern California,57.1
+117,University of Oslo,56.9
+118,Stockholm University,56.8
+118,"University of California, Davis",56.7
+119,"KIT, Karlsruhe Institute of Technology",56.4
+120,Humboldt-Universit?t zu Berlin,56.3
+121,Technical University of Denmark,56.2
+122,Lancaster University,55.7
+123,Politecnico di Milano,55.2
+124,Eindhoven University of Technology,55
+124,University of Basel,55
+126,Leiden University,54.8
+126,University of Bern,54.8
+128,University of Geneva,54.2
+129,Chalmers University of Technology,54
+130,Macquarie University,53.7
+130,University of Vienna,53.7
+132,"University of North Carolina, Chapel Hill",53.2
+134,Sapienza University of Rome,52.9
+134,Texas A&M University,52.9
+136,Michigan State University,52.7
+137,Universiti Sains Malaysia (USM),52.6
+137,University of Science and Technology of China,52.6
+139,University of Groningen,52.5
+140,RMIT University,52.4
+141,Nanjing University,52.1
+141,Université de Montréal,52.1
+143,Aarhus University,52
+143,King Abdulaziz University (KAU),52
+145,Queen Mary University of London,51.9
+145,Rice University,51.9
+145,Sungkyunkwan University(SKKU),51.9
+148,University of Bath,51.8
+149,Indian Institute of Technology Bombay (IITB),51.7
+149,Universitat Autònoma de Barcelona,51.7
+151,The Ohio State University,51.3
+151,Wageningen University & Research,51.3
+153,The University of Exeter,50.9
+154,Alma Mater Studiorum - University of Bologna,50.5
+154,Cardiff University,50.5
+154,Technische Universit?t Berlin (TU Berlin),50.5
+154,Washington University in St. Louis,50.5
+158,Universiti Putra Malaysia (UPM),50.4
+159,Ghent University,50.2
+159,Universidad de Chile,50.2
+159,Universiti Kebangsaan Malaysia (UKM),50.2
+162,University of Wollongong,50.1
+163,"University of California, Santa Barbara (UCSB)",50
+164,Hanyang University,49.7
+164,Kyushu University,49.7
+164,Universitat de Barcelona,49.7
+166,Emory University,49.6
+167,University of York,49.4
+168,University of Florida,49.1
+169,"University of Maryland, College Park",48.9
+169,University of Reading,48.9
+171,Complutense University of Madrid,48.8
+171,University College Dublin,48.8
+173,Qatar University,48.7
+173,"The University of Newcastle, Australia (UON)",48.7
+173,University of Cape Town,48.7
+176,Erasmus University Rotterdam,48.5
+176,Nagoya University,48.5
+176,University of Liverpool,48.5
+179,Arizona State University,48.1
+180,King Fahd University of Petroleum & Minerals,48
+180,Université catholique de Louvain (UCLouvain),48
+182,University of Calgary,47.9
+183,Curtin University,47.8
+184,Technische Universit?t Wien,47.6
+184,Tecnológico de Monterrey,47.6
+184,école Normale Supérieure de Lyon,47.6
+187,University of Gothenburg,47.3
+188,Universiti Teknologi Malaysia,46.9
+189,McMaster University,46.8
+189,Queensland University of Technology (QUT),46.8
+189,Universite libre de Bruxelles,46.8
+192,Albert-Ludwigs-Universitaet Freiburg,46.7
+192,Ecole des Ponts ParisTech,46.7
+194,Wuhan University,46.6
+195,University of Minnesota Twin Cities,46.4
+196,Hokkaido University,46.2
+197,Indian Institute of Technology Delhi (IITD),46.1
+198,Universidad de los Andes,46
+199,Universidad Autónoma de Madrid,45.9
+199,Waseda University,45.9
+202,Queen's University Belfast,45.8
+203,King Saud University,45.2
+203,University of Ottawa,45.2
+205,Universit?t Hamburg,45.1
+206,University of Otago,45
+207,Vrije Universiteit Amsterdam,44.9
+208,University of Aberdeen,44.6
+209,Queen's University at Kingston,44.5
+210,University of Twente,44.4
+211,Chulalongkorn University,44.3
+212,Loughborough University,44.2
+213,Eberhard Karls Universit?t Tübingen,44.1
+214,Keio University,44
+215,Tel Aviv University,43.9
+216,Tongji University,43.5
+217,National Yang Ming Chiao Tung University,43.3
+218,University of Sussex,43.1
+219,Università di Padova,43
+220,Universidade Estadual de Campinas (Unicamp),42.7
+220,University of Lausanne,42.7
+222,Radboud University,42.5
+222,University of Pittsburgh,42.5
+224,University of Rochester,42.4
+225,Indian Institute of Science,42.1
+226,American University of Beirut (AUB),41.9
+226,Universidad Nacional de Colombia,41.9
+228,National Cheng Kung University (NCKU),41.8
+229,Friedrich-Alexander-Universit?t Erlangen-Nürnberg,41.7
+230,Al-Farabi Kazakh National University,41.6
+230,Khalifa University of Science and Technology,41.6
+232,University of G?ttingen,41.4
+233,Deakin University,41.3
+233,National Tsing Hua University,41.3
+235,Heriot-Watt University,41.2
+236,Université de Paris,41.1
+237,Dartmouth College,40.9
+237,Universitas Indonesia,40.9
+239,Massey University,40.6
+239,Rheinische Friedrich-Wilhelms-Universit?t Bonn,40.6
+241,Victoria University of Wellington,40.5
+242,La Trobe University,40.3
+243,Griffith University,40.1
+244,University of Surrey,39.9
+245,University of Massachusetts Amherst,39.8
+246,Technical University of Darmstadt,39.7
+246,Technische Universit?t Dresden,39.7
+248,Charles University,39.6
+248,University of Antwerp,39.6
+250,University of Waikato,39.5
+251,The Hebrew University of Jerusalem,39.3
+252,Politecnico di Torino,39.2
+253,University of Porto,39
+254,University of Macau,38.9
+255,Case Western Reserve University,38.8
+256,Harbin Institute of Technology,38.7
+256,Maastricht University,38.7
+256,University of Canterbury,38.7
+259,Vrije Universiteit Brussel (VUB),38.6
+260,University of Virginia,38.5
+261,Vanderbilt University,38.4
+262,University of Warsaw,38.1
+263,Gadjah Mada University,38
+264,University of Colorado Boulder,37.9
+264,University of Witwatersrand,37.9
+266,Ulsan National Institute of Science and Technology (UNIST),37.7
+266,University of Lisbon,37.7
+268,Link?ping University,37.5
+268,"University of California, Irvine",37.5
+268,University of Cologne,37.5
+271,Indian Institute of Technology Kharagpur (IIT-KGP),37.4
+272,Beijing Normal University,37.3
+272,University of Leicester,37.3
+274,North Carolina State University,37.2
+275,Huazhong University of Science and Technology,37.1
+276,University of Milan,37
+276,University of Strathclyde,37
+278,Indian Institute of Technology Kanpur (IITK),36.9
+278,University of Miami,36.9
+280,University of Navarra,36.8
+281,Bandung Institute of Technology (ITB),36.6
+281,University of Bergen,36.6
+283,Stellenbosch University,36.5
+284,Taylor's University,36.2
+285,Indian Institute of Technology Madras (IITM),36.1
+285,Swinburne University of Technology,36.1
+285,The University of Arizona,36.1
+285,Tianjin University,36.1
+289,National University of Ireland Galway,36
+290,United Arab Emirates University,35.9
+291,Xi’an Jiaotong University,35.8
+292,Norwegian University of Science And Technology,35.7
+292,University College Cork,35.7
+294,Université Grenoble Alpes,35.6
+295,Hong Kong Baptist University,35.4
+295,University of East Anglia (UEA),35.4
+297,Georgetown University,35.3
+298,Dalhousie University,34.9
+299,Rutgers University–New Brunswick,34.8
+300,UCSI University,34.7
+301,Southern University of Science and Technology,34.6
+302,Goethe-University Frankfurt am Main,34.5
+302,Virginia Polytechnic Institute and State University,34.5
+304,Jagiellonian University,34.3
+304,University of Notre Dame,34.3
+306,University of Johannesburg,34
+307,DGIST,34
+307,Swansea University,33.9
+307,Universiti Teknologi PETRONAS (UTP),33.9
+307,University of Tasmania,33.9
+310,Hamad bin Khalifa University,33.8
+310,Universitat Pompeu Fabra,33.8
+312,Universit?t Stuttgart,33.7
+313,Indiana University Bloomington,33.5
+313,University of Oulu,33.5
+315,Quaid-i-Azam University,33.4
+315,Saint Petersburg State University,33.4
+315,University of Turku,33.4
+318,Simon Fraser University,33.3
+319,Bauman Moscow State Technical University,33.2
+319,Sciences Po,33.2
+319,Universidad Carlos III de Madrid (UC3M),33.2
+322,University of Victoria (UVic),33
+323,Sun Yat-sen University,32.8
+323,University of Illinois at Chicago (UIC),32.8
+323,University of Pretoria,32.8
+326,University of South Australia,32.7
+326,University of Southern Denmark (SDU),32.7
+328,"City, University of London",32.6
+328,Gwangju Institute of Science and Technology (GIST),32.6
+328,USI - Università della Svizzera italiana,32.6
+328,Université Paris 1 Panthéon-Sorbonne,32.6
+332,Kyung Hee University,32.5
+332,"University of California, Santa Cruz",32.5
+334,Sharif University of Technology,32.4
+335,University of Naples - Federico II,32.3
+336,Aalborg University,32.2
+336,Middle East Technical University,32.2
+336,Pontificia Universidad Católica del Perú,32.2
+336,University of Kent,32.2
+340,Beijing Institute of Technology,32.1
+340,George Washington University,32.1
+342,RUDN University,32
+343,Brunel University London,31.9
+344,University of Aveiro,31.6
+345,Airlangga University,31.5
+345,University of Saskatchewan,31.5
+347,National Technical University of Athens,31.4
+347,Pontificia Universidad Javeriana,31.4
+349,Universidad Politécnica de Madrid (UPM),31.3
+349,University of Pisa,31.3
+351,Lappeenranta-Lahti University of Technology LUT,31.2
+351,University of Coimbra,31.2
+353,York University,31.1
+354,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),31
+355,L.N. Gumilyov Eurasian National University (ENU),30.9
+355,Sichuan University,30.9
+355,University of Tsukuba,30.9
+358,University of Florence,30.8
+358,University of Tartu,30.8
+360,Shandong University,30.7
+360,University of Tehran,30.7
+362,Lincoln University,30.6
+362,Universit?t Innsbruck,30.6
+364,American University of Sharjah,30.3
+364,Indian Institute of Technology Guwahati (IITG),30.3
+364,University of Turin,30.3
+367,National University of Sciences And Technology (NUST) Islamabad,30.2
+368,University of Cyprus (UCY),30.1
+369,Indian Institute of Technology Roorkee (IITR),30
+369,Yeshiva University,30
+371,Cairo University,29.9
+371,Tilburg University,29.9
+371,Universidade Federal do Rio de Janeiro,29.9
+374,"Birkbeck, University of London",29.7
+375,Amirkabir University of Technology,29.5
+375,Northeastern University,29.5
+375,Ruhr-Universit?t Bochum,29.5
+375,Western Sydney University,29.5
+379,Tufts University,29.4
+380,Flinders University,29.2
+381,University of Luxembourg,29.1
+382,Mahidol University,29
+382,Université de Montpellier,29
+384,Nankai University,28.6
+384,Westf?lische Wilhelms-Universit?t Münster,28.6
+386,University of Hawai?i at Mānoa,28.4
+387,Aix-Marseille University,28.3
+387,Belarusian State University,28.3
+387,Concordia University,28.3
+387,National Taiwan University of Science and Technology (Taiwan Tech),28.3
+387,Universiti Brunei Darussalam (UBD),28.3
+392,Institut National des Sciences Appliquées de Lyon (INSA),28.2
+392,South China University of Technology,28.2
+392,Technion - Israel Institute of Technology,28.2
+392,Xiamen University,28.2
+396,Justus-Liebig-University Giessen,28.1
+396,Kazan (Volga region) Federal University,28.1
+396,"Stony Brook University, State University of New York",28.1
+399,HSE University,28
+400,Iowa State University,27.9
+400,Masaryk University,27.9
+400,Universidade Nova de Lisboa,27.9
+403,University of Granada,27.8
+404,Istanbul Technical University,27.6
+404,"University of California, Riverside",27.6
+404,University of the Philippines,27.6
+407,Auckland University of Technology (AUT),27.4
+407,University of Delhi,27.4
+409,Colorado State University,27.3
+410,Universidad de Santiago de Chile (USACH),27.2
+410,University of Kansas,27.2
+410,University of Southern Queensland,27.2
+413,Oxford Brookes University,27.1
+413,Royal Holloway University of London,27.1
+415,James Cook University,27
+415,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),27
+415,The American University in Cairo,27
+418,Tomsk State University,26.9
+419,UNESP,26.8
+419,Washington State University,26.8
+421,Graz University of Technology,26.7
+421,Novosibirsk State University,26.7
+421,University of Canberra,26.7
+421,Université de Liège,26.7
+421,Université de Strasbourg,26.7
+426,University of Limerick,26.6
+427,Anna University,26.5
+428,IE University,26.4
+429,Singapore University of Technology and Design,26.3
+429,University of Trento,26.3
+431,Ko? University,26.2
+431,Murdoch University,26.2
+431,National Taipei University of Technology,26.2
+431,National Taiwan Normal University,26.2
+431,University of Stirling,26.2
+436,Dublin City University,26
+436,Sejong University,26
+436,Tampere University,26
+436,University of Science and Technology Beijing,26
+436,University of St.Gallen (HSG),26
+440,Julius-Maximilians-Universit?t Würzburg,25.9
+441,University of Dundee,25.9
+441,University of Utah,25.9
+441,Université Laval,25.9
+444,National and Kapodistrian University of Athens,25.8
+444,University of Connecticut,25.8
+446,Aston University,25.7
+446,Johannes Kepler University Linz,25.7
+446,"The University of Tennessee, Knoxville",25.7
+446,Toyota Technological Institute,25.7
+446,University of Jyv?skyl?,25.7
+451,Iran University of Science and Technology,25.6
+452,Central South University,25.5
+452,Université Claude Bernard Lyon 1,25.5
+454,Czech Technical University in Prague,25.2
+454,Indian Institute of Technology Indore,25.2
+454,Southeast University,25.2
+454,Sultan Qaboos University,25.2
+454,Universit?t Mannheim,25.2
+459,"Essex, University of",25.1
+460,Universit?t Potsdam,25
+461,Florida State University,24.9
+461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),24.9
+461,Universit?t Jena,24.9
+464,Johannes Gutenberg Universit?t Mainz,24.8
+465,Colorado School of Mines,24.7
+465,Umea University,24.7
+465,University of Bordeaux,24.7
+465,University of Sharjah,24.7
+469,Ben-Gurion University of The Negev,24.6
+469,Illinois Institute of Technology,24.6
+469,Università degli Studi di Pavia,24.6
+472,Hiroshima University,24.5
+473,Beihang University (former BUAA),24.4
+473,Ural Federal University - UrFU,24.4
+473,Vilnius University,24.4
+476,Kobe University,24.3
+476,Universitat Politècnica de València,24.3
+478,Universit?t Konstanz,24.2
+479,Universit?t Leipzig,24.1
+480,Missouri University of Science and Technology,24
+481,University of Milano-Bicocca,24
+481,Bangor University,23.9
+481,Hitotsubashi University,23.9
+481,Leibniz University Hannover,23.9
+481,Satbayev University,23.9
+485,Universitat de Valencia,23.8
+486,University of Electronic Science and Technology of China,23.7
+486,University of Guelph,23.7
+489,Bogor Agricultural University,23.6
+489,University of Rome "Tor Vergata",23.6
+491,Dalian University of Technology,23.5
+491,University at Buffalo SUNY,23.5
+491,University of Iowa,23.5
+494,Chung-Ang University (CAU),23.4
+494,Hunan University,23.4
+494,Rensselaer Polytechnic Institute,23.4
+494,Universidad de Sevilla,23.4
+498,Ewha Womans University,23.2
+498,Ulster University,23.2
+498,University of Delaware,23.2
+498,University of Jordan,23.2
+502,Bilkent University,23.1
+502,Jilin University,23.1
+502,University of Portsmouth,23.1
+505,Macau University of Science and Technology,23
+505,National Sun Yat-sen University,23
+505,Oregon State University,23
+505,Università Cattolica del Sacro Cuore,23
+509,Sogang University,22.9
+509,University of Bayreuth,22.9
+511,East China Normal University,22.8
+511,SOAS University of London,22.8
+511,Université Paul Sabatier Toulouse III,22.8
+514,Bogazi?i üniversitesi,22.7
+514,Duy Tan University,22.7
+514,Pontificia Universidad Católica Argentina,22.7
+514,Shanghai University,22.7
+514,The University of Georgia,22.7
+514,Universit?t Bremen,22.7
+520,Kyungpook National University,22.6
+520,Universidad Austral,22.6
+520,University of Texas Dallas,22.6
+523,Universidad de Zaragoza,22.5
+523,University of Hull,22.5
+525,Universiti Teknologi Brunei,22.4
+526,MGIMO University,22.3
+526,Sabanci University,22.3
+526,University of Madras,22.3
+529,Edith Cowan University,22.2
+530,Aristotle University of Thessaloniki,22.1
+530,Christian-Albrechts-University zu Kiel,22.1
+530,Universidad de Palermo (UP),22.1
+530,University of Genoa,22.1
+534,China Agricultural University,22
+534,Peter the Great St. Petersburg Polytechnic University,22
+534,University of Crete,22
+534,University of Salamanca,22
+538,Universidad de Alcalá,21.9
+538,Universiti Utara Malaysia (UUM),21.9
+540,Lahore University of Management Sciences (LUMS),21.8
+540,Universidad Nacional de La Plata (UNLP),21.8
+542,ITMO University,21.7
+542,University Ulm,21.7
+544,Universidad de Costa Rica,21.6
+545,Bar-Ilan University,21.5
+545,City University of New York,21.5
+545,Singapore Management University,21.5
+548,Lehigh University,21.4
